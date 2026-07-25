@@ -18,7 +18,7 @@ python scripts/make_info_card.py
 <table>
 <tr>
 <td valign="top">
-<img src="./ascii.svg" width="370" alt="Moanish Chowdary — ASCII portrait" />
+<img src="./avi-ascii.svg" width="370" alt="Moanish Chowdary — ASCII portrait" />
 </td>
 <td valign="top">
 <img src="./info-card.svg" width="490" alt="Moanish Chowdary — profile, stack, projects" />
