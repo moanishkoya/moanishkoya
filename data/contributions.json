@@ -1,12 +1,12 @@
 {
   "username": "moanishkoya",
-  "generated_at": "2026-08-15T07:00:00Z",
+  "generated_at": "2026-08-16T07:01:22Z",
   "range": {
-    "start": "2025-08-10",
-    "end": "2026-08-15"
+    "start": "2025-08-17",
+    "end": "2026-08-16"
   },
-  "total_contributions": 341,
-  "active_days": 189,
+  "total_contributions": 337,
+  "active_days": 185,
   "avg_per_active_day": 1.8,
   "current_streak": {
     "length": 22,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 15
+      "total": 10
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 20
+      "total": 21
     }
   ],
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 0
-    },
-    {
-      "date": "2025-08-11",
-      "count": 0
-    },
-    {
-      "date": "2025-08-12",
-      "count": 0
-    },
-    {
-      "date": "2025-08-13",
-      "count": 1
-    },
-    {
-      "date": "2025-08-14",
-      "count": 1
-    },
-    {
-      "date": "2025-08-15",
-      "count": 2
-    },
-    {
-      "date": "2025-08-16",
-      "count": 1
-    },
     {
       "date": "2025-08-17",
       "count": 0
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-15",
-      "count": 1
+      "count": 2
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0
     }
   ]
 }
